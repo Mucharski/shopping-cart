@@ -1,6 +1,6 @@
 🛒 Desafio - Carrinho de Compras
 
-📌 Funcionalidades necessárias:
+📌 Implementar um carrinho de compras com as seguintes funcionalidades necessárias:
 
 ✅ Adicionar um item ao carrinho
 
